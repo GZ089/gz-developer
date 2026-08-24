@@ -84,7 +84,7 @@ const contentData = {
             {
                 title: "Link my Group",
                 image: "../assests/logo.gif",
-                url: "https://link-my-group.web.app"
+                url: "https://gulzaman.netlify.app"
             },
              {
                 title: "Gul zaman",
