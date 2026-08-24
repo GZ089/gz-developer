@@ -85,6 +85,11 @@ const contentData = {
                 title: "Link my Group",
                 image: "../assests/logo.gif",
                 url: "https://link-my-group.web.app"
+            },
+             {
+                title: "Gul zaman",
+                image: "../assests/gz.png",
+                url: "https://link-my-group.web.app"
             }
         ]
     }
